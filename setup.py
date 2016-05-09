@@ -14,6 +14,7 @@ setup(
     description="Documents how the Rocket League client communicates with Psyonix's servers",
     long_description=read('.', 'README.md'),
     url='https://github.com/e00E/Rocket-League-Api',
+    packages=['rocket_league_api'],
     license='',
     author='',
     author_email='',
