@@ -163,7 +163,7 @@ def parse_keyvalues(response):
 	# WARNING: currently usernames can contain unescaped '&' and '=' leading
 	# to correct parsing being impossible in some cases.
 	# I sent bug report to psyonix, only they can fix it
-	logging.debug('parse_result called with data {}'.format(response.encode()))
+	logging.debug('parse_result called with data {}'.format(response.encode('utf-8')))
 	parsed_keyvalues = list()
 	lines = response.splitlines()
 	if len(lines) == 0:
