@@ -17,7 +17,6 @@ setup(
     license='',
     author='',
     author_email='',
-    packages=['rocket_leage_api'],
     include_package_data=True,
     classifiers=[
         'Intended Audience :: Developers',
