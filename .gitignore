@@ -1,2 +1,4 @@
 __pycache__/*
 *.pyc
+rocket_league_api.egg-info/*
+dist/*

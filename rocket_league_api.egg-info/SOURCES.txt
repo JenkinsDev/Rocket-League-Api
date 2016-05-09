@@ -1,8 +1,0 @@
-MANIFEST.in
-README.md
-setup.cfg
-setup.py
-rocket_league_api.egg-info/PKG-INFO
-rocket_league_api.egg-info/SOURCES.txt
-rocket_league_api.egg-info/dependency_links.txt
-rocket_league_api.egg-info/top_level.txt
